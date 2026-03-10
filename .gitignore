@@ -1,3 +1,12 @@
 /*.png
 **/__pycache__
 /rendered
+.DS_Store
+aigp_settings.json
+race_runs/
+race_runs_smoke/
+reports/
+reports_iter/
+reports_smoke/
+tmp_video/
+rendered.bak.*/

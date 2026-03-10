@@ -1,0 +1,9 @@
+[
+  {
+    "driver": "drivers.daboss_driver",
+    "name": "daboss driver",
+    "primary": "white",
+    "secondary": "deepskyblue",
+    "icon": "white.png"
+  }
+]
